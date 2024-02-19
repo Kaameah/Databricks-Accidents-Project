@@ -27,7 +27,7 @@ Plus précisément, pour chaque victime, la gravité de l'accident est indiquée
 
 Dans mon repository vous trouverez deux notebooks Databricks au format dbc.
 
-Le premier *'Modelisation'* comprend les étapes ci-dessous
+Le premier **'Modelisation'** comprend les étapes ci-dessous
 
 #### 1. Traitement des Données
    - Nettoyage des données : Gestion des valeurs manquantes, suppression des variables inutiles, etc.
@@ -58,4 +58,4 @@ Le modèle retenu est le RandomForestClassifier avec les hyperparamètres optimi
 ### Lien de l'Endpoint du Modèle
   - https://adb-4469819661100542.2.azuredatabricks.net/serving-endpoints/BestModel/invocations
   
-Le second repository *'Test API'* permet de tester le modèle créé (BestModel) avec des exemples d'accidents.
+Le second repository **'Test API'** permet de tester le modèle créé (BestModel) avec des exemples d'accidents.
