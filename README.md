@@ -58,4 +58,4 @@ Le modèle retenu est le RandomForestClassifier avec les hyperparamètres optimi
 ### Lien de l'Endpoint du Modèle
   - https://adb-4469819661100542.2.azuredatabricks.net/serving-endpoints/BestModel/invocations
   
-Le second repository **'Test API'** permet de tester le modèle créé (BestModel) avec des exemples d'accidents.
+Le second repository **'Test API'** permet de tester le modèle créé (BestModel) avec les données test.
